@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 def majuscule(mot):
-    test 123
+    # TODO completer la fonction ici
     return mot
 
 
